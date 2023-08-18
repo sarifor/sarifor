@@ -42,7 +42,7 @@ Sarifor입니다. 개발🐾이 좋아요.
 - OSI 7계층, TCP/IP, HTTP, WebSocket, DNS, 프록시 등, 웹개발자의 기본 네트워크 지식 학습 및 실습.
 - HTTP 요청/응답을 편집하고 분석할 수 있게 됨.
 
-## 데이터베이스, SQL
+## [데이터베이스, SQL](https://github.com/sarifor/db-practice.git)
 - 공부 기간: 2023.07 -
 - SQL, 정규화, CRUD, ERD, Transaction, 샤딩 등, 웹개발자의 기본 데이터베이스 지식 학습 및 실습.
 - 만들고자 하는 어플리케이션에 알맞은 데이터베이스 준비 및 운용을 할 수 있게 됨.
