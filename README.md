@@ -42,7 +42,7 @@ Sarifor입니다. 개발🐾이 좋아요.
 - OSI 7계층, TCP/IP, HTTP, WebSocket, DNS, 프록시 등, 웹개발자의 기본 네트워크 지식 학습 및 실습.
 - HTTP 요청/응답을 편집하고 분석할 수 있게 됨.
 
-## [AWS]()
+## [AWS](https://github.com/sarifor/aws-practice.git)
 - 공부 기간: 2023.09 -
 - (추후 보충)
 - (추후 보충)
