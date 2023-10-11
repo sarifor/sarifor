@@ -29,6 +29,7 @@ Sarifor입니다. 개발🐾이 좋아요.
 - 기술 스택: Node.js, express, React.js, GitHub Pages, GCP.
 - HTTPS를 적용한 첫 프로젝트. OSI 1~7계층에 걸친 트러블슈팅 경험.
 
+## [New Products Letter]()
 (작성 중)
 
 # Self-Improvement
