@@ -33,6 +33,16 @@ Sarifor입니다. 개발🐾이 좋아요.
 (작성 중)
 
 # Self-Improvement
+## 언어
+### JavaScript
+- (추후 보충)
+
+### Node.js
+- (추후 보충)
+  
+### ReactJS
+- (추후 보충)
+
 ## [자료구조, 알고리즘](https://github.com/sarifor/algorithm-practice.git)
 - 공부 기간: 2023.06 -
 - 구간 합, 투 포인터, 슬라이딩 윈도우, 정렬, 탐색, 그리디, 정수론, 그래프, 트리, 조합, 동적 계획법, 기하 등, 기본 자료구조/알고리즘 지식 학습 및 실습.
