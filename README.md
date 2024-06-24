@@ -33,7 +33,7 @@ Sarifor입니다. 개발🐾이 좋아요.
 (작성 중)
 
 # Self-Improvement
-## 언어
+## Languages, Libraries, Frameworks
 ### JavaScript
 - (추후 보충)
 
@@ -41,6 +41,9 @@ Sarifor입니다. 개발🐾이 좋아요.
 - (추후 보충)
   
 ### ReactJS
+- (추후 보충)
+
+### Next.js
 - (추후 보충)
 
 ## [자료구조, 알고리즘](https://github.com/sarifor/algorithm-practice.git)
