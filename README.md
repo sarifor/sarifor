@@ -18,14 +18,19 @@ Sariforと申します。開発が大好きです！🐾
 
 # Projects
 ## [Video Info Storage](https://github.com/sarifor/video-info-storage)
-- 作成期間：2021.07-09, 2022.02-05, 2022.09-10
+- 作成期間：2021年7月-9月, 2022年2月-5月, 2022年9月-10月
 - 概要：好きな動画の情報を共有できるサービスです。
 - 使用技術：Node.js, Express, MongoDB Atlas, AWS, Heroku
 
 ## [Video Info Collector](https://github.com/sarifor/video-info-collector)
-- 作成期間：2023.04-2023.07
+- 作成期間：2023年4月-2023年7月
 - 概要：特定のYouTubeチャンネルの最新の固定コメント5つを収集して閲覧することができるサービスです。
 - 使用技術: Node.js, Express, React.js, GitHub Pages, GCP
+
+## [Crying Letter Preventer](https://github.com/sarifor/crying-letter-preventer)
+- 作成期間：2024年11月-2024年12月
+- 概要：指定した特定の文字が入力されないようにしてくれるChrome Extensionです。
+- 使用技術: JavaScript, Chrome Extensions
 
 # Self-Improvement
 ## Languages, Libraries, Frameworks
@@ -35,16 +40,16 @@ Sariforと申します。開発が大好きです！🐾
 ### Next.js
 
 ## [データ構造、アルゴリズム](https://github.com/sarifor/algorithm-practice.git)
-- 期間: 2023.06 - ing
+- 期間: 2023年6月 - ing
 
 ## [ネットワーク、HTTP](https://github.com/sarifor/network-http-practice.git)
-- 期間: 2023.05 - ing
+- 期間: 2023年5月 - ing
 
 ## [AWS](https://github.com/sarifor/aws-practice.git)
-- 期間: 2023.09 - ing
+- 期間: 2023年9月 - ing
 
 ## [データベース、SQL](https://github.com/sarifor/db-practice.git)
-- 期間: 2023.07 - ing
+- 期間: 2023年7月 - ing
   
 ## [OS(Ubuntu)](https://github.com/sarifor/linux-practice)
-- 期間: 2023.06 - ing
+- 期間: 2023年6月 - ing
