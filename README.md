@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Intro
-Sariforと申します。開発が大好きです！🐾
+Sariforと申します。何かを作るのが大好きです！🐾
 
 # Projects
 ## [Video Info Storage](https://github.com/sarifor/video-info-storage)
