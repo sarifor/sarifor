@@ -1,18 +1,3 @@
-<!--
-**sarifor/sarifor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Intro
 Sariforと申します。何かを作るのが大好きです！🐾
 
@@ -29,7 +14,7 @@ Sariforと申します。何かを作るのが大好きです！🐾
 
 ## [Crying Letter Preventer](https://github.com/sarifor/crying-letter-preventer)
 - 作成期間：2024年11月-2024年12月
-- 概要：指定した特定の文字が入力されないようにしてくれるChrome Extensionです。
+- 概要：「T.T」文字列が入力されないようにしてくれるChrome Extensionです。
 - 使用技術: JavaScript, Chrome Extensions
 
 # Self-Improvement
