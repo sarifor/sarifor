@@ -1,40 +1,37 @@
-# Intro
+# 自己紹介
 Sariforと申します。何かを作るのが大好きです！🐾
 
-# Projects
-## [Video Info Storage](https://github.com/sarifor/video-info-storage)
-- 作成期間：2021年7月-9月, 2022年2月-5月, 2022年9月-10月
-- 概要：好きな動画の情報を共有できるサービスです。
-- 使用技術：Node.js, Express, MongoDB Atlas, AWS, Heroku
+# プロジェクト
+## [🧺Cart Connect Market](https://github.com/sarifor/cart-connect-market)
+- 作成期間：2025年1月-作成中
+- 概要：ユーザー同士のカートをネットワークでつなぎ、新しいショッピング体験を提供するサービスです。
+- 使用技術：JavaScript、React.js、Next.js、Node.js、Express、MySQLなど
 
-## [Video Info Collector](https://github.com/sarifor/video-info-collector)
+## [💧Crying Letter Preventer](https://github.com/sarifor/crying-letter-preventer)
+- 作成期間：2024年11月-2024年12月
+- 概要：「T.T」という文字列が入力されないようにしてくれるChrome Extensionです。
+- 使用技術：JavaScript、Chrome Extensions
+
+## [📺Video Info Collector](https://github.com/sarifor/video-info-collector)
 - 作成期間：2023年4月-2023年7月
 - 概要：特定のYouTubeチャンネルの最新の固定コメント5つを収集して閲覧することができるサービスです。
-- 使用技術: Node.js, Express, React.js, GitHub Pages, GCP
+- 使用技術：React.js、Node.js、Express、GitHub Pages、GCP
 
-## [Crying Letter Preventer](https://github.com/sarifor/crying-letter-preventer)
-- 作成期間：2024年11月-2024年12月
-- 概要：「T.T」文字列が入力されないようにしてくれるChrome Extensionです。
-- 使用技術: JavaScript, Chrome Extensions
+## [🏷️Video Info Storage](https://github.com/sarifor/video-info-storage)
+- 作成期間：2021年7月-9月、2022年2月-5月、2022年9月-10月
+- 概要：好きな動画の情報を共有できるサービスです。
+- 使用技術：Node.js、Express、MongoDB Atlas、AWS、Heroku
 
-# Self-Improvement
-## Languages, Libraries, Frameworks
-### JavaScript
-### Node.js
-### React.js
-### Next.js
+# 主な技術
+- JavaScript
+- React.js
+- Next.js
+- Express.js
+- Node.js
 
-## [データ構造、アルゴリズム](https://github.com/sarifor/algorithm-practice.git)
-- 期間: 2023年6月 - ing
-
-## [ネットワーク、HTTP](https://github.com/sarifor/network-http-practice.git)
-- 期間: 2023年5月 - ing
-
-## [AWS](https://github.com/sarifor/aws-practice.git)
-- 期間: 2023年9月 - ing
-
-## [データベース、SQL](https://github.com/sarifor/db-practice.git)
-- 期間: 2023年7月 - ing
-  
-## [OS(Ubuntu)](https://github.com/sarifor/linux-practice)
-- 期間: 2023年6月 - ing
+# 学習中のCS基礎
+- データ構造とアルゴリズム
+- ネットワークとHTTP
+- クラウド（AWS）
+- データベースとSQL
+- OS（Ubuntu）
