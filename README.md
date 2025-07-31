@@ -8,7 +8,7 @@ Sariforと申します。何かを作るのが大好きです！🐾
 - 使用技術：選定中
 
 ## [🧺Cart Connect Market](https://github.com/sarifor/cart-connect-market)
-- 作成期間：2025年1月-作成中
+- 作成期間：2025年1月-2025年7月
 - 概要：ユーザー同士のカートをネットワークでつなぎ、新しいショッピング体験を提供するサービスです。
 - 使用技術：JavaScript、React.js、Next.js、Node.js、Express、MySQLなど
 
