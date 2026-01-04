@@ -1,6 +1,15 @@
 # 自己紹介
 Sariforと申します。何かを作るのが大好きです！🐾
 
+# 2026年に取り組んでいること
+ネットワークの実務力向上のため、CCNA資格の取得に向けて学習しています。  
+Udemyの講座を活用し、理論学習とハンズオンを並行して進めています。 
+2月15日までの取得が目標です！
+
+※受講中の講座</br>
+[【ウズカレ式】1週間で「ネットワークの基本知識」が全て学べる講座＜CCNA試験最短合格講座＞](https://www.udemy.com/share/103Tv4/)</br>
+[【超絶入門】CCNA対策 Packet Tracerで学ぶ ハンズオン講座](https://www.udemy.com/share/105VBI/)
+
 # プロジェクト
 ## [🧺Cart Connect Market](https://github.com/sarifor/cart-connect-market)
 - 作成期間：2025年1月-2025年8月
