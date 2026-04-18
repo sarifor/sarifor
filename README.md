@@ -11,6 +11,12 @@ Udemyの講座を活用し、理論学習とハンズオンを並行して進め
 [【超絶入門】CCNA対策 Packet Tracerで学ぶ ハンズオン講座](https://www.udemy.com/share/105VBI/)
 
 # プロジェクト
+
+## [Smart Kaimono Helper](https://github.com/sarifor/smart-kaimono-helper)
+- 作成期間：2026年4月
+- 概要：ネットスーパーの買い物リストをAIが自動生成するCLIツールです。予算とキーワードを入力するだけで、トレンドや栄養バランスを考慮したカートを提案します。
+- 使用技術：Python、Anthropic API（Claude Sonnet 4.6）など
+
 ## [🧺Cart Connect Market](https://github.com/sarifor/cart-connect-market)
 - 作成期間：2025年1月-2025年8月
 - 概要：ユーザ同士のカートをネットワークでつなぎ、新しいショッピング体験を提供するサービスです。
